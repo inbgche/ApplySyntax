@@ -6,7 +6,10 @@ But, Every time you open C# file from unityIDE, ST3 detect the file as default C
 
 So ApplySyntax is solution for the problem. 
 
-I put the sample the same folder. You have to rename it(remove post fix '.unity3d'), and enjoy!
+I put the sample file. You have to rename it(remove post fix '.unity3d'), and put the setting file in the folder, 
+"/Users/YourLoginName/Library/Application Support/Sublime Text 3/Packages/User". 
+
+enjoy!
 
 
 
