@@ -9,7 +9,7 @@ So ApplySyntax is solution for the problem.
 I put the sample file. You have to rename it(remove post fix '.unity3d'), and put the setting file in the folder, 
 "/Users/YourLoginName/Library/Application Support/Sublime Text 3/Packages/User". 
 
-enjoy!
+Enjoy!
 
 
 
